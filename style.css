@@ -1,0 +1,50 @@
+b{width: 400px;
+height: 200px;
+
+
+}
+
+
+
+.box1{
+
+    background-color: #3498db;
+} 
+.box2{
+
+    background-color: #240991;
+}
+
+.box3{
+
+    background-color: #19430c;
+}
+
+.box4{
+
+    background-color: #db5b34;
+}
+.g{
+    width: 100%;
+    height: 200px;
+}
+
+.gradient1{
+    background: linear-gradient(to right, #3498db, #090224);
+}
+
+.gradient2{
+    background: linear-gradient(to left, #19430c, #78d16a);
+}
+
+.gradient3{
+    background: linear-gradient(to bottom, #2c0723, #a3699a);
+}
+.section{
+    width: 400px;
+    height: 200px;
+    background-image: url("wadi-ram-jordan-wadi.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
